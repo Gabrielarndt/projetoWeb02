@@ -9,8 +9,8 @@ body {
 
 main {
     background-color: white;
-    width: 90%; /* Alterado para 90% */
-    max-width: 40vh; /* Adicionado para limitar a largura */
+    width: 90%; 
+    max-width: 40vh; 
     border-radius: 5px;
     overflow-y: auto;
 }
