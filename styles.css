@@ -1,6 +1,7 @@
 body {
     background-size: 100%;
     background-image: url('https://github.com/luanraithz/frontend-challenges/blob/master/frontloops/1-loop/2-step/src/img/background.jpg?raw=true');
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
