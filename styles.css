@@ -34,6 +34,7 @@ main {
 img {
     height: 50px;
     margin-right: 10px;
+    background-repeat: no-repeat;
 }
 
 p {
