@@ -2,6 +2,7 @@ body {
     background-size: 100%;
     background-image: url('https://github.com/luanraithz/frontend-challenges/blob/master/frontloops/1-loop/2-step/src/img/background.jpg?raw=true');
     background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,7 +35,6 @@ main {
 img {
     height: 50px;
     margin-right: 10px;
-    background-repeat: no-repeat;
 }
 
 p {
